@@ -1,5 +1,3 @@
-# Customer_Churn_Analysis_SQL_PowerBI
-
 # 📊 Customer Churn & Retention Analysis
 
 ## 📌 Project Overview
