@@ -116,7 +116,7 @@ This dataset is used for **educational and portfolio demonstration purposes only
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![image alt]https://github.com/neha396singh-hub/Customer_Churn_Analysis_SQL_PowerBI/blob/main/Documents/Dashboard_Overview.png?raw=true)
 
 ---
 
